@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-0 /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 /Users/atulmaurya/.gradle/caches/transforms-3/44d6cfb22297c3182abbdf0d541bee59/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-2 /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-3 /Users/atulmaurya/.gradle/caches/transforms-3/a58c7e5f00f2f6b294c0a34ea04dcdd0/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-4 /Users/atulmaurya/.gradle/caches/transforms-3/af220358800455230b72f7f4dab068c1/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.2.0-5 /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-6 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-resValues-7 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/generated/res/resValues/release
+io.flutter.plugins.firebase.core.firebase_core-rs-8 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/generated/res/rs/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-9 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-10 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-11 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_res/release
+io.flutter.plugins.firebase.core.firebase_core-main-12 /Users/atulmaurya/Downloads/fluttersdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-2.1.1/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-13 /Users/atulmaurya/Downloads/fluttersdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-2.1.1/android/src/release/res

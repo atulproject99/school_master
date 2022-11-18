@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143093624680",
+    "project_id": "pms-school-2eb7d",
+    "storage_bucket": "pms-school-2eb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143093624680:android:9e9ac17da02b1bc8e4f0dd",
+        "android_client_info": {
+          "package_name": "com.app.pmssansthan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143093624680-p23lstbb3dfba7qigvcabm412edoti2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DEiIMhR1ZONVqHDR5j9Cv2aqiBrn4A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143093624680-p23lstbb3dfba7qigvcabm412edoti2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

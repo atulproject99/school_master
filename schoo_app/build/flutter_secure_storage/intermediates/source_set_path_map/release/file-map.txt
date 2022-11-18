@@ -1,0 +1,12 @@
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-java-1.0.0-beta04-0 /Users/atulmaurya/.gradle/caches/transforms-3/44d6cfb22297c3182abbdf0d541bee59/transformed/jetified-window-java-1.0.0-beta04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-1.0.0-beta04-1 /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-core-1.6.0-2 /Users/atulmaurya/.gradle/caches/transforms-3/a58c7e5f00f2f6b294c0a34ea04dcdd0/transformed/core-1.6.0/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-annotation-experimental-1.1.0-3 /Users/atulmaurya/.gradle/caches/transforms-3/af220358800455230b72f7f4dab068c1/transformed/jetified-annotation-experimental-1.1.0/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-pngs-4 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/generated/res/pngs/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-resValues-5 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/generated/res/resValues/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-rs-6 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/generated/res/rs/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-7 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-8 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-merged_res-9 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/intermediates/merged_res/release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-main-10 /Users/atulmaurya/Downloads/fluttersdk/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.2/android/src/main/res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-release-11 /Users/atulmaurya/Downloads/fluttersdk/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_secure_storage-5.1.2/android/src/release/res

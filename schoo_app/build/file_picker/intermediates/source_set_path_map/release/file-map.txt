@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-0 /Users/atulmaurya/.gradle/caches/transforms-3/44d6cfb22297c3182abbdf0d541bee59/transformed/jetified-window-java-1.0.0-beta04/res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-1 /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-2 /Users/atulmaurya/.gradle/caches/transforms-3/a58c7e5f00f2f6b294c0a34ea04dcdd0/transformed/core-1.6.0/res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-3 /Users/atulmaurya/.gradle/caches/transforms-3/af220358800455230b72f7f4dab068c1/transformed/jetified-annotation-experimental-1.1.0/res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-4 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/generated/res/pngs/release
+com.mr.flutter.plugin.filepicker.file_picker-resValues-5 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/generated/res/resValues/release
+com.mr.flutter.plugin.filepicker.file_picker-rs-6 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/generated/res/rs/release
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-7 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeReleaseResources-8 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-9 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_res/release
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-10 /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
+com.mr.flutter.plugin.filepicker.file_picker-main-11 /Users/atulmaurya/Downloads/fluttersdk/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-5.2.2/android/src/main/res
+com.mr.flutter.plugin.filepicker.file_picker-release-12 /Users/atulmaurya/Downloads/fluttersdk/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-5.2.2/android/src/release/res

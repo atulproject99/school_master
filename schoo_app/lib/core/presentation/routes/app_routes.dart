@@ -1,0 +1,88 @@
+import 'package:auto_route/auto_route.dart';
+import 'package:schoo_app/authentication/presentation/login_page.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/pages/notification/presentation/notification_page.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/pages/p_home/presentation/pages/c_events.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/pages/p_home/presentation/pages/homework_list.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/pages/p_home/presentation/pages/notice_page.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/pages/p_home/presentation/pages/studnent_details.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/pages/p_profile/presentation/pages/html_reader_page.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/pages/p_profile/presentation/pages/p_edit_profile.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/pages/p_profile/presentation/pages/p_password_update.dart';
+import 'package:schoo_app/module/parent_module/dashboard/presentation/parent_dashboard.dart';
+import 'package:schoo_app/module/parent_module/p_complain/presentation/pages/p_complain_page.dart';
+import 'package:schoo_app/module/parent_module/p_fees/presentation/pages/p_fees_page.dart';
+import 'package:schoo_app/module/parent_module/p_fees/presentation/pages/p_transport_fees.dart';
+import 'package:schoo_app/module/parent_module/p_fees/presentation/pages/successfull.dart';
+import 'package:schoo_app/module/student_module/application_form/presentation/application_form_page.dart';
+import 'package:schoo_app/module/student_module/attendance/presentation/s_attendance.dart';
+import 'package:schoo_app/module/student_module/dashboard/presentation/s_fees/presentation/pages/s_fees_page.dart';
+import 'package:schoo_app/module/student_module/dashboard/presentation/s_home/presentation/application_form/presentation/s_application_form_page.dart';
+import 'package:schoo_app/module/student_module/dashboard/presentation/s_home/presentation/complain_list.dart';
+import 'package:schoo_app/module/student_module/dashboard/presentation/s_leave/presentation/pages/add_leave_page.dart';
+import 'package:schoo_app/module/student_module/dashboard/presentation/s_leave/presentation/pages/leave_list_page.dart';
+import 'package:schoo_app/module/student_module/dashboard/student_dashboard.dart';
+import 'package:schoo_app/module/student_module/fees/presentation/fees_page.dart';
+import 'package:schoo_app/module/student_module/homework/presentation/pages/homework_list.dart';
+import 'package:schoo_app/module/student_module/homework/presentation/pages/pdf_view_page.dart';
+import 'package:schoo_app/module/student_module/homework/presentation/pages/video_player_page.dart';
+import 'package:schoo_app/module/student_module/noticeboard/presentation/s_noticeboard.dart';
+import 'package:schoo_app/module/student_module/study_material/presentation/study_material_page.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/add_complain_page.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/add_homework_page.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/add_study_material_page.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/class_list_page.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/complain_page.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/mark_attendance_page.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/t_attenance.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/t_complains.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/t_homework.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/t_students.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/presentation/t_home/presentation/pages/t_study_material.dart';
+import 'package:schoo_app/module/teacher_module/dashboard/t_dashboard_page.dart';
+import 'package:schoo_app/splash/presentation/splash_page.dart';
+
+@MaterialAutoRouter(replaceInRouteName: 'Page,Route', routes: <AutoRoute>[
+  AutoRoute(page: SplashPage, initial: true),
+  AutoRoute(page: LoginPage),
+  AutoRoute(page: StudentDashboardPage),
+  AutoRoute(page: ParentDashboardPage),
+  AutoRoute(page: ParentPasswordUpdatePage),
+  AutoRoute(page: ParentProfileUpdatePage),
+  AutoRoute(page: PFeesPage),
+  AutoRoute(page: PComplainPage),
+  AutoRoute(page: StudentAttendancePage),
+  AutoRoute(page: HomeworkListPage),
+  AutoRoute(page: VideoPlayerPage),
+  AutoRoute(page: MyPdfViewerPage),
+  AutoRoute(page: StudentNoticeboardPage),
+  AutoRoute(page: TeacherDashboardPage),
+  AutoRoute(page: TeacherComplainListPage),
+  AutoRoute(page: TeacherAttendancePage),
+  AutoRoute(page: TStudentsPage),
+  AutoRoute(page: ApplicationFormPage),
+  AutoRoute(page: FeesPage),
+  AutoRoute(page: AddComplainPage),
+  AutoRoute(page: StudentComplainPage),
+  AutoRoute(page: SuccessfullPage),
+  AutoRoute(page: HtmlReaderPage),
+  AutoRoute(page: SFeesPage),
+  AutoRoute(page: StudentApplicationFormPage),
+  AutoRoute(page: NotificationPage),
+  AutoRoute(page: StudyMaterialPage),
+  AutoRoute(page: THomeworkPage),
+  AutoRoute(page: TStudyMaterialPage),
+  AutoRoute(page: AddHomeworkPage),
+  AutoRoute(page: AddStudyMaterialPage),
+  AutoRoute(page: FeesPage),
+  AutoRoute(page: StudentDetailsPage),
+  AutoRoute(page: PTransportAmountPage),
+  AutoRoute(page: MarkAttendancePage),
+  AutoRoute(page: LeaveListPage),
+  AutoRoute(page: AddLeavePage),
+  AutoRoute(page: ClassListPage),
+  AutoRoute(page: ShowEventsPage),
+  AutoRoute(page: NoticePage),
+  AutoRoute(page: PHomeworkListPage),
+  AutoRoute(page: SComplainPage)
+])
+class $AppRouter {}

@@ -1,0 +1,1019 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+MERGED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-50:12
+MERGED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:syncfusion_flutter_pdfviewer] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/syncfusion_flutter_pdfviewer/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_secure_storage] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:wakelock] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/wakelock/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:webview_flutter_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/webview_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-50:12
+MERGED from [:video_player_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/44d6cfb22297c3182abbdf0d541bee59/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/0b046d0b927262b39ffb0d2d6544e9c3/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/b925943b095bb59e851a29ced241d61a/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/eee93ca886d0a4b6283c25a0193dd0e0/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/atulmaurya/.gradle/caches/transforms-3/abe29a3e51faf2da8dc0ea48a63e13d4/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/c3af35652f20e56ddf3bc4ac8f4cc2a5/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/0bf478f321068ee834ff81fb76d01f43/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/16721878e7f2f674480fcd953ebc7f4d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/atulmaurya/.gradle/caches/transforms-3/53f9ca0bfb8617519144cbf732a66846/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/c4f772c7882ddd5128cfc5506bdafa76/transformed/jetified-activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/788ab144bc9d3b3142f08b5929c7c50c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/d83bd8ab202398a57f640a27eacaa444/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/02b2034d02b0c9897d87afb7eaa8b8bf/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/d9504b8c34d3ba6b65fdeb72a7943c6f/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/005a2902c78dbca57c41319a25093c21/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/atulmaurya/.gradle/caches/transforms-3/d754a82a003c27b8afaf572fcacc2a6a/transformed/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.5.0] /Users/atulmaurya/.gradle/caches/transforms-3/4ea818034d0d7a0c8600ac7759b41740/transformed/webkit-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/atulmaurya/.gradle/caches/transforms-3/b2c4b06a33273f40a5afa9469b725718/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/dad4d87dec2780c74b46e28394a80b68/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/0c4dcccec9fcd337ebbb179019a5d299/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/f0b3727a7a4f5227da4ed8bdb7b56264/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/2bcab68b2ba4a44fedee8074ecc085a7/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/ac8d480a4fe933e084ba25a28d863ab7/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/eb686e2df789179dbcd49c13d3df7c9c/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/546f674dc8b26ca75b0ef788c6a08601/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/7c730193f422bdf35b1750b17d8d51a6/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/115e11c40ec25734230742ef4c73ca0f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/cd3e39c6b93d4292acdd378778dca18c/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/3897f93d463dea93056c3f795848531f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/f592657ef0d6c21c52c8bb457fdd758a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/ff73dd33aea48c49396b0a7dcff55b5d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/6786e36ddc340c2a0368f65de88fff41/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/6874f76197a65ee7bae3303ec83aae87/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/f624e1797b9fdfa592998fb350d5ce28/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/af5b82583df1737d3049f59261311f51/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/c6f93404cc1daf21a9bc5bb19643b917/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/1bd072b827e25b144ee7abf56acc2128/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/acf69d80cbaf9e153db636a5a6436208/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/ace2fa4a474ce2e8eebf1cdf4f30a748/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/837ac25ed506159b9af953db27660115/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/e9418b8c2f8540778a051c18ad4e6e5f/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/e381f7fa0748e25f7eaa4a61fe3bc8ba/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/5196df9b42d0146c395483688812e775/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/0fb5ebc0cf68c27d8e5d6629026a09c6/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/e0cf5b08d020b48f765699ac2d059a65/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/c3d95fbd59c412bd05fd642d1868f3cc/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/e0611de0013ad2bbec8fbebd4d4b9317/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/9ec9beb6a84763f55c989047f13fe150/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/3b19b35af572232c5913e696cb5ad6c4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/1d3aa3e37dcec6ba7e83b504cedd91d8/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/d7039de3fff2dddd5c8bf2fcc179fec0/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/4ce1636c95b031dddf604146918aa21b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/af220358800455230b72f7f4dab068c1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+	package
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:1-119:12
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:3:9-70
+MERGED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:3:26-68
+application
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:4:4-37:19
+MERGED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-48:19
+MERGED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-48:19
+MERGED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-15:19
+MERGED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-48:19
+MERGED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-48:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/eee93ca886d0a4b6283c25a0193dd0e0/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/eee93ca886d0a4b6283c25a0193dd0e0/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/atulmaurya/.gradle/caches/transforms-3/abe29a3e51faf2da8dc0ea48a63e13d4/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/atulmaurya/.gradle/caches/transforms-3/abe29a3e51faf2da8dc0ea48a63e13d4/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/0bf478f321068ee834ff81fb76d01f43/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/0bf478f321068ee834ff81fb76d01f43/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/16721878e7f2f674480fcd953ebc7f4d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/16721878e7f2f674480fcd953ebc7f4d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/7c730193f422bdf35b1750b17d8d51a6/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/7c730193f422bdf35b1750b17d8d51a6/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/f624e1797b9fdfa592998fb350d5ce28/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/f624e1797b9fdfa592998fb350d5ce28/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/af5b82583df1737d3049f59261311f51/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/af5b82583df1737d3049f59261311f51/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:6:12-55
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/f624e1797b9fdfa592998fb350d5ce28/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:5:9-28
+	android:icon
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:8:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:7:13-48
+activity#com.example.schoo_app.MainActivity
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:9:9-30:20
+	android:launchMode
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:12:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:17:13-55
+	android:exported
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:11:13-36
+	android:configChanges
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:15:13-163
+	android:theme
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:14:13-47
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:10:13-62
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:22:13-25:17
+	android:resource
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:24:15-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:23:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:28:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:33:9-35:33
+	android:value
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:35:13-30
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:34:13-44
+queries
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:38:5-43:15
+MERGED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-17:15
+MERGED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-17:15
+MERGED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-13:15
+MERGED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-13:15
+intent#action:name:android.intent.action.VIEW+data:scheme:upi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:39:9-42:18
+action#android.intent.action.VIEW
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:40:13-65
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:40:21-62
+data
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:41:13-42
+	android:scheme
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:41:19-39
+uses-sdk
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:syncfusion_flutter_pdfviewer] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/syncfusion_flutter_pdfviewer/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:syncfusion_flutter_pdfviewer] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/syncfusion_flutter_pdfviewer/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_secure_storage] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-9:53
+MERGED from [:flutter_secure_storage] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-9:53
+MERGED from [:wakelock] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/wakelock/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/wakelock/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/webview_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/webview_flutter_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/shared_preferences_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:video_player_android] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/video_player_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/44d6cfb22297c3182abbdf0d541bee59/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/44d6cfb22297c3182abbdf0d541bee59/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/0b046d0b927262b39ffb0d2d6544e9c3/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/0b046d0b927262b39ffb0d2d6544e9c3/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/b925943b095bb59e851a29ced241d61a/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/b925943b095bb59e851a29ced241d61a/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/eee93ca886d0a4b6283c25a0193dd0e0/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/eee93ca886d0a4b6283c25a0193dd0e0/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/atulmaurya/.gradle/caches/transforms-3/abe29a3e51faf2da8dc0ea48a63e13d4/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/atulmaurya/.gradle/caches/transforms-3/abe29a3e51faf2da8dc0ea48a63e13d4/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/c3af35652f20e56ddf3bc4ac8f4cc2a5/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/c3af35652f20e56ddf3bc4ac8f4cc2a5/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/0bf478f321068ee834ff81fb76d01f43/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/0bf478f321068ee834ff81fb76d01f43/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/16721878e7f2f674480fcd953ebc7f4d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/16721878e7f2f674480fcd953ebc7f4d/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/atulmaurya/.gradle/caches/transforms-3/53f9ca0bfb8617519144cbf732a66846/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/atulmaurya/.gradle/caches/transforms-3/53f9ca0bfb8617519144cbf732a66846/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/c4f772c7882ddd5128cfc5506bdafa76/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/c4f772c7882ddd5128cfc5506bdafa76/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/788ab144bc9d3b3142f08b5929c7c50c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/788ab144bc9d3b3142f08b5929c7c50c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/d83bd8ab202398a57f640a27eacaa444/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/d83bd8ab202398a57f640a27eacaa444/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/02b2034d02b0c9897d87afb7eaa8b8bf/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/02b2034d02b0c9897d87afb7eaa8b8bf/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/d9504b8c34d3ba6b65fdeb72a7943c6f/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/d9504b8c34d3ba6b65fdeb72a7943c6f/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/005a2902c78dbca57c41319a25093c21/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/005a2902c78dbca57c41319a25093c21/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/atulmaurya/.gradle/caches/transforms-3/d754a82a003c27b8afaf572fcacc2a6a/transformed/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] /Users/atulmaurya/.gradle/caches/transforms-3/d754a82a003c27b8afaf572fcacc2a6a/transformed/jetified-security-crypto-1.1.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.5.0] /Users/atulmaurya/.gradle/caches/transforms-3/4ea818034d0d7a0c8600ac7759b41740/transformed/webkit-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] /Users/atulmaurya/.gradle/caches/transforms-3/4ea818034d0d7a0c8600ac7759b41740/transformed/webkit-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] /Users/atulmaurya/.gradle/caches/transforms-3/b2c4b06a33273f40a5afa9469b725718/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/atulmaurya/.gradle/caches/transforms-3/b2c4b06a33273f40a5afa9469b725718/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/dad4d87dec2780c74b46e28394a80b68/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/dad4d87dec2780c74b46e28394a80b68/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/0c4dcccec9fcd337ebbb179019a5d299/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/0c4dcccec9fcd337ebbb179019a5d299/transformed/jetified-exoplayer-hls-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/f0b3727a7a4f5227da4ed8bdb7b56264/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/f0b3727a7a4f5227da4ed8bdb7b56264/transformed/jetified-exoplayer-dash-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/2bcab68b2ba4a44fedee8074ecc085a7/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/2bcab68b2ba4a44fedee8074ecc085a7/transformed/jetified-exoplayer-smoothstreaming-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/ac8d480a4fe933e084ba25a28d863ab7/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/ac8d480a4fe933e084ba25a28d863ab7/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/eb686e2df789179dbcd49c13d3df7c9c/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/eb686e2df789179dbcd49c13d3df7c9c/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/546f674dc8b26ca75b0ef788c6a08601/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/546f674dc8b26ca75b0ef788c6a08601/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/7c730193f422bdf35b1750b17d8d51a6/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/7c730193f422bdf35b1750b17d8d51a6/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/115e11c40ec25734230742ef4c73ca0f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/115e11c40ec25734230742ef4c73ca0f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/cd3e39c6b93d4292acdd378778dca18c/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/cd3e39c6b93d4292acdd378778dca18c/transformed/jetified-core-ktx-1.8.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/3897f93d463dea93056c3f795848531f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/3897f93d463dea93056c3f795848531f/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/f592657ef0d6c21c52c8bb457fdd758a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/f592657ef0d6c21c52c8bb457fdd758a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/ff73dd33aea48c49396b0a7dcff55b5d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/ff73dd33aea48c49396b0a7dcff55b5d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/6786e36ddc340c2a0368f65de88fff41/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/6786e36ddc340c2a0368f65de88fff41/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/6874f76197a65ee7bae3303ec83aae87/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/6874f76197a65ee7bae3303ec83aae87/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/f624e1797b9fdfa592998fb350d5ce28/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/f624e1797b9fdfa592998fb350d5ce28/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/af5b82583df1737d3049f59261311f51/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/af5b82583df1737d3049f59261311f51/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/c6f93404cc1daf21a9bc5bb19643b917/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/c6f93404cc1daf21a9bc5bb19643b917/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/1bd072b827e25b144ee7abf56acc2128/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/1bd072b827e25b144ee7abf56acc2128/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/acf69d80cbaf9e153db636a5a6436208/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/acf69d80cbaf9e153db636a5a6436208/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/ace2fa4a474ce2e8eebf1cdf4f30a748/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/ace2fa4a474ce2e8eebf1cdf4f30a748/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/837ac25ed506159b9af953db27660115/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/837ac25ed506159b9af953db27660115/transformed/jetified-exoplayer-datasource-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/e9418b8c2f8540778a051c18ad4e6e5f/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/e9418b8c2f8540778a051c18ad4e6e5f/transformed/jetified-exoplayer-extractor-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/e381f7fa0748e25f7eaa4a61fe3bc8ba/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/e381f7fa0748e25f7eaa4a61fe3bc8ba/transformed/jetified-exoplayer-decoder-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/5196df9b42d0146c395483688812e775/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/5196df9b42d0146c395483688812e775/transformed/jetified-exoplayer-database-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/0fb5ebc0cf68c27d8e5d6629026a09c6/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/0fb5ebc0cf68c27d8e5d6629026a09c6/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/e0cf5b08d020b48f765699ac2d059a65/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/e0cf5b08d020b48f765699ac2d059a65/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/c3d95fbd59c412bd05fd642d1868f3cc/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/c3d95fbd59c412bd05fd642d1868f3cc/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/e0611de0013ad2bbec8fbebd4d4b9317/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/e0611de0013ad2bbec8fbebd4d4b9317/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/9ec9beb6a84763f55c989047f13fe150/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/9ec9beb6a84763f55c989047f13fe150/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/3b19b35af572232c5913e696cb5ad6c4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/atulmaurya/.gradle/caches/transforms-3/3b19b35af572232c5913e696cb5ad6c4/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/1d3aa3e37dcec6ba7e83b504cedd91d8/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/1d3aa3e37dcec6ba7e83b504cedd91d8/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/d7039de3fff2dddd5c8bf2fcc179fec0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/d7039de3fff2dddd5c8bf2fcc179fec0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/4ce1636c95b031dddf604146918aa21b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/atulmaurya/.gradle/caches/transforms-3/4ce1636c95b031dddf604146918aa21b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/af220358800455230b72f7f4dab068c1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/af220358800455230b72f7f4dab068c1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_secure_storage] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_secure_storage/intermediates/merged_manifest/release/AndroidManifest.xml:9:9-50
+	android:targetSdkVersion
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+package#com.SIBMobile
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:45:9-49
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:45:18-46
+package#com.YesBank
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:46:9-47
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:46:18-44
+package#com.atomyes
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:47:9-47
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:47:18-44
+package#com.aubank.aupay.bhimupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:48:9-60
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:48:18-57
+package#com.bankofbaroda.upi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:49:9-56
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:49:18-53
+package#com.canarabank.mobility
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:50:9-59
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:50:18-56
+package#com.citrus.citruspay
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:51:9-56
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:51:18-53
+package#com.csam.icici.bank.imobile
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:52:9-63
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:52:18-60
+package#com.cub.plus.gui
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:53:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:53:18-49
+package#com.cub.wallet.gui
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:54:9-54
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:54:18-51
+package#com.dbs.in.digitalbank
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:55:9-58
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:55:18-55
+package#com.dreamplug.androidapp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:56:9-60
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:56:18-57
+package#com.enstage.wibmo.hdfc
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:57:9-58
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:57:18-55
+package#com.equitasbank.upi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:58:9-55
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:58:18-52
+package#com.euronet.iobupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:59:9-54
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:59:18-51
+package#com.fampay.in
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:60:9-49
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:60:18-46
+package#com.finacus.jetpay
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:61:9-54
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:61:18-51
+package#com.finacus.tranzapp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:62:9-56
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:62:18-53
+package#com.finopaytech.bpayfino
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:63:9-60
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:63:18-57
+package#com.fisglobal.bandhanupi.app
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:64:9-64
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:64:18-61
+package#com.fisglobal.syndicateupi.app
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:65:9-66
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:65:18-63
+package#com.freecharge.android
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:66:9-58
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:66:18-55
+package#com.fss.idfcpsp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:67:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:67:18-48
+package#com.fss.ippbpsp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:68:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:68:18-48
+package#com.fss.jnkpsp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:69:9-50
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:69:18-47
+package#com.fss.pnbpsp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:70:9-50
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:70:18-47
+package#com.fss.unbipsp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:71:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:71:18-48
+package#com.fss.vijayapsp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:72:9-53
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:72:18-50
+package#com.google.android.apps.nbu.paisa.user
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:73:9-74
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:73:18-71
+package#com.idbibank.paywiz
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:74:9-55
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:74:18-52
+package#com.infra.boiupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:75:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:75:18-49
+package#com.infrasoft.uboi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:76:9-54
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:76:18-51
+package#com.infrasofttech.centralbankupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:77:9-68
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:77:18-65
+package#com.infrasofttech.indianbankupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:78:9-67
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:78:18-64
+package#com.infrasofttech.mahaupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:79:9-61
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:79:18-58
+package#com.jio.myjio
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:80:9-49
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:80:18-46
+package#com.khaalijeb.inkdrops
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:81:9-58
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:81:18-55
+package#com.lcode.allahabadupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:82:9-58
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:82:18-55
+package#com.lcode.corpupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:83:9-53
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:83:18-50
+package#com.lcode.csbupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:84:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:84:18-49
+package#com.lcode.dlbupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:85:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:85:18-49
+package#com.lcode.smartz
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:86:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:86:18-49
+package#com.lcode.ucoupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:87:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:87:18-49
+package#com.lvbank.upaay
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:88:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:88:18-49
+package#com.mgs.hsbcupi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:89:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:89:18-48
+package#com.mgs.induspsp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:90:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:90:18-49
+package#com.mgs.obcbank
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:91:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:91:18-48
+package#com.microlucid.mudrapay.android
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:92:9-67
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:92:18-64
+package#com.mipay.in.wallet
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:93:9-55
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:93:18-52
+package#com.mobikwik_new
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:94:9-52
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:94:18-49
+package#com.mobileware.upipsb
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:95:9-57
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:95:18-54
+package#com.myairtelapp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:96:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:96:18-48
+package#com.mycompany.kvb
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:97:9-53
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:97:18-50
+package#com.olive.andhra.upi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:98:9-56
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:98:18-53
+package#com.olive.dcb.upi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:99:9-53
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:99:18-50
+package#com.omegaon_internet_pvt_ltd
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:100:9-64
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:100:18-61
+package#com.phonepe.app
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:101:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:101:18-48
+package#com.rblbank.mobank
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:102:9-54
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:102:18-51
+package#com.rblbank.upi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:103:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:103:18-48
+package#com.realmepay.payments
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:104:9-58
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:104:18-55
+package#com.sbi.upi
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:105:9-47
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:105:18-44
+package#com.snapwork.hdfc
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:106:9-53
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:106:18-50
+package#com.truecaller
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:107:9-50
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:107:18-47
+package#com.udma.yuvapay.app
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:108:9-56
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:108:18-53
+package#com.ultracash.payment.customer
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:109:9-66
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:109:18-63
+package#com.upi.axispay
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:110:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:110:18-48
+package#com.upi.federalbank.org.lotza
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:111:9-65
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:111:18-62
+package#com.whatsapp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:112:9-48
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:112:18-45
+package#in.amazon.mShop.android.shopping
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:113:9-68
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:113:18-65
+package#in.cointab.app
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:114:9-50
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:114:18-47
+package#in.org.npci.upiapp
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:115:9-54
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:115:18-51
+package#money.bullet
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:116:9-48
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:116:18-45
+package#net.one97.paytm
+ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:117:9-51
+	android:name
+		ADDED from /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:117:18-48
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/ac8d480a4fe933e084ba25a28d863ab7/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/ac8d480a4fe933e084ba25a28d863ab7/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/0fb5ebc0cf68c27d8e5d6629026a09c6/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] /Users/atulmaurya/.gradle/caches/transforms-3/0fb5ebc0cf68c27d8e5d6629026a09c6/transformed/jetified-exoplayer-common-2.18.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:5-77
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-74
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-19:72
+	android:exported
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-37
+	android:permission
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-69
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-107
+service#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-26:19
+	android:exported
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-97
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:25-75
+receiver#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-35:20
+	android:exported
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:17-81
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:25-78
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:37:9-41:19
+MERGED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:37:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-40:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:40:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:39:17-128
+provider#io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider
+ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:43:9-47:38
+	android:authorities
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:45:13-88
+	android:exported
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:46:13-37
+	android:initOrder
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from [:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:44:13-102
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-77
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-16:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-72
+	android:name
+		ADDED from [:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:13:21-69
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-12:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:11:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-20:47
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-24:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-112
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-28:55
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-106
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:29:9-33:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-126
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:34:9-38:55
+	android:launchMode
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-48
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-37
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-120
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:40:9-43:40
+	android:enabled
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:41:13-111
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:45:9-47:36
+	android:value
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:46:13-61
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/702488cb37529d4b75b57a22d0ff07ba/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:18:17-127
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/7c730193f422bdf35b1750b17d8d51a6/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/atulmaurya/.gradle/caches/transforms-3/7c730193f422bdf35b1750b17d8d51a6/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132

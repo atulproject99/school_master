@@ -1,0 +1,4 @@
+#Sat Nov 05 21:43:44 IST 2022
+base.0=/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

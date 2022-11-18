@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.it_nomads.fluttersecurestorage.flutter_secure_storage-merged_res-8:/values-lo/values-lo.xml",
+            "map": [
+                {
+                    "source": "/Users/atulmaurya/.gradle/caches/transforms-3/a58c7e5f00f2f6b294c0a34ea04dcdd0/transformed/core-1.6.0/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-6:/values-lo/values-lo.xml",
+            "map": [
+                {
+                    "source": "/Users/atulmaurya/.gradle/caches/transforms-3/a58c7e5f00f2f6b294c0a34ea04dcdd0/transformed/core-1.6.0/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

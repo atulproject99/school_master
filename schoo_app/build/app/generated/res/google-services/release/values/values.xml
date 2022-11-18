@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">143093624680-p23lstbb3dfba7qigvcabm412edoti2e.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">143093624680</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1DEiIMhR1ZONVqHDR5j9Cv2aqiBrn4A4</string>
+    <string name="google_app_id" translatable="false">1:143093624680:android:9e9ac17da02b1bc8e4f0dd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1DEiIMhR1ZONVqHDR5j9Cv2aqiBrn4A4</string>
+    <string name="google_storage_bucket" translatable="false">pms-school-2eb7d.appspot.com</string>
+    <string name="project_id" translatable="false">pms-school-2eb7d</string>
+</resources>

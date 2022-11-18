@@ -1,0 +1,636 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.app.pmssansthan"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:3:9-70
+11-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:3:26-68
+12
+13    <queries>
+13-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:38:5-43:15
+14        <intent>
+14-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:39:9-42:18
+15            <action android:name="android.intent.action.VIEW" />
+15-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:40:13-65
+15-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:40:21-62
+16
+17            <data android:scheme="upi" />
+17-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:41:13-42
+17-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:41:19-39
+18        </intent>
+19        <intent>
+19-->[:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-16:18
+20            <action android:name="android.intent.action.GET_CONTENT" />
+20-->[:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-72
+20-->[:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:13:21-69
+21
+22            <data android:mimeType="*/*" />
+22-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:41:13-42
+23        </intent>
+24        <intent>
+24-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-12:18
+25            <action android:name="android.support.customtabs.action.CustomTabsService" />
+25-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-90
+25-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:11:21-87
+26        </intent>
+27    </queries>
+28    <queries>
+28-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:38:5-43:15
+29        <package android:name="com.SIBMobile" />
+29-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:45:9-49
+29-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:45:18-46
+30        <package android:name="com.YesBank" />
+30-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:46:9-47
+30-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:46:18-44
+31        <package android:name="com.atomyes" />
+31-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:47:9-47
+31-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:47:18-44
+32        <package android:name="com.aubank.aupay.bhimupi" />
+32-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:48:9-60
+32-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:48:18-57
+33        <package android:name="com.bankofbaroda.upi" />
+33-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:49:9-56
+33-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:49:18-53
+34        <package android:name="com.canarabank.mobility" />
+34-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:50:9-59
+34-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:50:18-56
+35        <package android:name="com.citrus.citruspay" />
+35-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:51:9-56
+35-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:51:18-53
+36        <package android:name="com.csam.icici.bank.imobile" />
+36-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:52:9-63
+36-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:52:18-60
+37        <package android:name="com.cub.plus.gui" />
+37-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:53:9-52
+37-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:53:18-49
+38        <package android:name="com.cub.wallet.gui" />
+38-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:54:9-54
+38-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:54:18-51
+39        <package android:name="com.dbs.in.digitalbank" />
+39-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:55:9-58
+39-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:55:18-55
+40        <package android:name="com.dreamplug.androidapp" />
+40-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:56:9-60
+40-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:56:18-57
+41        <package android:name="com.enstage.wibmo.hdfc" />
+41-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:57:9-58
+41-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:57:18-55
+42        <package android:name="com.equitasbank.upi" />
+42-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:58:9-55
+42-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:58:18-52
+43        <package android:name="com.euronet.iobupi" />
+43-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:59:9-54
+43-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:59:18-51
+44        <package android:name="com.fampay.in" />
+44-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:60:9-49
+44-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:60:18-46
+45        <package android:name="com.finacus.jetpay" />
+45-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:61:9-54
+45-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:61:18-51
+46        <package android:name="com.finacus.tranzapp" />
+46-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:62:9-56
+46-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:62:18-53
+47        <package android:name="com.finopaytech.bpayfino" />
+47-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:63:9-60
+47-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:63:18-57
+48        <package android:name="com.fisglobal.bandhanupi.app" />
+48-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:64:9-64
+48-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:64:18-61
+49        <package android:name="com.fisglobal.syndicateupi.app" />
+49-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:65:9-66
+49-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:65:18-63
+50        <package android:name="com.freecharge.android" />
+50-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:66:9-58
+50-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:66:18-55
+51        <package android:name="com.fss.idfcpsp" />
+51-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:67:9-51
+51-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:67:18-48
+52        <package android:name="com.fss.ippbpsp" />
+52-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:68:9-51
+52-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:68:18-48
+53        <package android:name="com.fss.jnkpsp" />
+53-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:69:9-50
+53-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:69:18-47
+54        <package android:name="com.fss.pnbpsp" />
+54-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:70:9-50
+54-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:70:18-47
+55        <package android:name="com.fss.unbipsp" />
+55-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:71:9-51
+55-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:71:18-48
+56        <package android:name="com.fss.vijayapsp" />
+56-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:72:9-53
+56-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:72:18-50
+57        <package android:name="com.google.android.apps.nbu.paisa.user" />
+57-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:73:9-74
+57-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:73:18-71
+58        <package android:name="com.idbibank.paywiz" />
+58-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:74:9-55
+58-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:74:18-52
+59        <package android:name="com.infra.boiupi" />
+59-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:75:9-52
+59-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:75:18-49
+60        <package android:name="com.infrasoft.uboi" />
+60-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:76:9-54
+60-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:76:18-51
+61        <package android:name="com.infrasofttech.centralbankupi" />
+61-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:77:9-68
+61-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:77:18-65
+62        <package android:name="com.infrasofttech.indianbankupi" />
+62-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:78:9-67
+62-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:78:18-64
+63        <package android:name="com.infrasofttech.mahaupi" />
+63-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:79:9-61
+63-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:79:18-58
+64        <package android:name="com.jio.myjio" />
+64-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:80:9-49
+64-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:80:18-46
+65        <package android:name="com.khaalijeb.inkdrops" />
+65-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:81:9-58
+65-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:81:18-55
+66        <package android:name="com.lcode.allahabadupi" />
+66-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:82:9-58
+66-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:82:18-55
+67        <package android:name="com.lcode.corpupi" />
+67-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:83:9-53
+67-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:83:18-50
+68        <package android:name="com.lcode.csbupi" />
+68-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:84:9-52
+68-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:84:18-49
+69        <package android:name="com.lcode.dlbupi" />
+69-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:85:9-52
+69-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:85:18-49
+70        <package android:name="com.lcode.smartz" />
+70-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:86:9-52
+70-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:86:18-49
+71        <package android:name="com.lcode.ucoupi" />
+71-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:87:9-52
+71-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:87:18-49
+72        <package android:name="com.lvbank.upaay" />
+72-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:88:9-52
+72-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:88:18-49
+73        <package android:name="com.mgs.hsbcupi" />
+73-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:89:9-51
+73-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:89:18-48
+74        <package android:name="com.mgs.induspsp" />
+74-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:90:9-52
+74-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:90:18-49
+75        <package android:name="com.mgs.obcbank" />
+75-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:91:9-51
+75-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:91:18-48
+76        <package android:name="com.microlucid.mudrapay.android" />
+76-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:92:9-67
+76-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:92:18-64
+77        <package android:name="com.mipay.in.wallet" />
+77-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:93:9-55
+77-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:93:18-52
+78        <package android:name="com.mobikwik_new" />
+78-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:94:9-52
+78-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:94:18-49
+79        <package android:name="com.mobileware.upipsb" />
+79-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:95:9-57
+79-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:95:18-54
+80        <package android:name="com.myairtelapp" />
+80-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:96:9-51
+80-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:96:18-48
+81        <package android:name="com.mycompany.kvb" />
+81-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:97:9-53
+81-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:97:18-50
+82        <package android:name="com.olive.andhra.upi" />
+82-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:98:9-56
+82-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:98:18-53
+83        <package android:name="com.olive.dcb.upi" />
+83-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:99:9-53
+83-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:99:18-50
+84        <package android:name="com.omegaon_internet_pvt_ltd" />
+84-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:100:9-64
+84-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:100:18-61
+85        <package android:name="com.phonepe.app" />
+85-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:101:9-51
+85-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:101:18-48
+86        <package android:name="com.rblbank.mobank" />
+86-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:102:9-54
+86-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:102:18-51
+87        <package android:name="com.rblbank.upi" />
+87-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:103:9-51
+87-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:103:18-48
+88        <package android:name="com.realmepay.payments" />
+88-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:104:9-58
+88-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:104:18-55
+89        <package android:name="com.sbi.upi" />
+89-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:105:9-47
+89-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:105:18-44
+90        <package android:name="com.snapwork.hdfc" />
+90-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:106:9-53
+90-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:106:18-50
+91        <package android:name="com.truecaller" />
+91-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:107:9-50
+91-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:107:18-47
+92        <package android:name="com.udma.yuvapay.app" />
+92-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:108:9-56
+92-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:108:18-53
+93        <package android:name="com.ultracash.payment.customer" />
+93-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:109:9-66
+93-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:109:18-63
+94        <package android:name="com.upi.axispay" />
+94-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:110:9-51
+94-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:110:18-48
+95        <package android:name="com.upi.federalbank.org.lotza" />
+95-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:111:9-65
+95-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:111:18-62
+96        <package android:name="com.whatsapp" />
+96-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:112:9-48
+96-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:112:18-45
+97        <package android:name="in.amazon.mShop.android.shopping" />
+97-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:113:9-68
+97-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:113:18-65
+98        <package android:name="in.cointab.app" />
+98-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:114:9-50
+98-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:114:18-47
+99        <package android:name="in.org.npci.upiapp" />
+99-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:115:9-54
+99-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:115:18-51
+100        <package android:name="money.bullet" />
+100-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:116:9-48
+100-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:116:18-45
+101        <package android:name="net.one97.paytm" />
+101-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:117:9-51
+101-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:117:18-48
+102    </queries>
+103
+104    <uses-permission android:name="android.permission.WAKE_LOCK" />
+104-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-68
+104-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-65
+105    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions options for the `notification` group -->
+105-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-79
+105-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-76
+106    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+106-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-77
+106-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-74
+107    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+107-->[:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-80
+107-->[:file_picker] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/file_picker/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-77
+108    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+108-->[com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+108-->[com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:22-79
+109
+110    <application
+110-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:4:4-37:19
+111        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+111-->[androidx.core:core:1.8.0] /Users/atulmaurya/.gradle/caches/transforms-3/f624e1797b9fdfa592998fb350d5ce28/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+112        android:icon="@mipmap/ic_launcher"
+112-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:8:9-43
+113        android:label="SCS"
+113-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:5:9-28
+114        android:requestLegacyExternalStorage="true"
+114-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:6:12-55
+115        android:usesCleartextTraffic="true" >
+115-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:7:13-48
+116        <activity
+116-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:9:9-30:20
+117            android:name="com.example.schoo_app.MainActivity"
+117-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:10:13-62
+118            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+118-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:15:13-163
+119            android:exported="true"
+119-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:11:13-36
+120            android:hardwareAccelerated="true"
+120-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:16:13-47
+121            android:launchMode="singleTop"
+121-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:12:13-43
+122            android:theme="@style/LaunchTheme"
+122-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:14:13-47
+123            android:windowSoftInputMode="adjustResize" >
+123-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:17:13-55
+124
+125            <!--
+126                 Specifies an Android theme to apply to this Activity as soon as
+127                 the Android process has started. This theme is visible to the user
+128                 while the Flutter UI initializes. After that, this theme continues
+129                 to determine the Window background behind the Flutter UI.
+130            -->
+131            <meta-data
+131-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:22:13-25:17
+132                android:name="io.flutter.embedding.android.NormalTheme"
+132-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:23:15-70
+133                android:resource="@style/NormalTheme" />
+133-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:24:15-52
+134
+135            <intent-filter>
+135-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:26:13-29:29
+136                <action android:name="android.intent.action.MAIN" />
+136-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:27:17-68
+136-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:27:25-66
+137
+138                <category android:name="android.intent.category.LAUNCHER" />
+138-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:28:17-76
+138-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:28:27-74
+139            </intent-filter>
+140        </activity>
+141        <!--
+142             Don't delete the meta-data below.
+143             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+144        -->
+145        <meta-data
+145-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:33:9-35:33
+146            android:name="flutterEmbedding"
+146-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:34:13-44
+147            android:value="2" />
+147-->/Users/atulmaurya/Documents/my_projects/school_master/schoo_app/android/app/src/main/AndroidManifest.xml:35:13-30
+148
+149        <service
+149-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-19:72
+150            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
+150-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-107
+151            android:exported="false"
+151-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-37
+152            android:permission="android.permission.BIND_JOB_SERVICE" />
+152-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-69
+153        <service
+153-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-26:19
+154            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
+154-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-97
+155            android:exported="false" >
+155-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-37
+156            <intent-filter>
+156-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:29
+157                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+157-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-78
+157-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:25-75
+158            </intent-filter>
+159        </service>
+160
+161        <receiver
+161-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-35:20
+162            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
+162-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-98
+163            android:exported="true"
+163-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-36
+164            android:permission="com.google.android.c2dm.permission.SEND" >
+164-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-73
+165            <intent-filter>
+165-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-34:29
+166                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+166-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:17-81
+166-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:25-78
+167            </intent-filter>
+168        </receiver>
+169
+170        <service
+170-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:37:9-41:19
+171            android:name="com.google.firebase.components.ComponentDiscoveryService"
+171-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:37:18-89
+172            android:directBootAware="true"
+172-->[com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
+173            android:exported="false" >
+173-->[com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:31:13-37
+174            <meta-data
+174-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-40:85
+175                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
+175-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:39:17-128
+176                android:value="com.google.firebase.components.ComponentRegistrar" />
+176-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:40:17-82
+177            <meta-data
+177-->[:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+178                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+178-->[:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+179                android:value="com.google.firebase.components.ComponentRegistrar" />
+179-->[:firebase_core] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+180            <meta-data
+180-->[com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+181                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+181-->[com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+182                android:value="com.google.firebase.components.ComponentRegistrar" />
+182-->[com.google.firebase:firebase-iid:21.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/15f7cc23274c104a71ee56a5b2222cda/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+183            <meta-data
+183-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:55:13-57:85
+184                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+184-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:56:17-119
+185                android:value="com.google.firebase.components.ComponentRegistrar" />
+185-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:57:17-82
+186            <meta-data
+186-->[com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:17:13-19:85
+187                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+187-->[com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:18:17-127
+188                android:value="com.google.firebase.components.ComponentRegistrar" />
+188-->[com.google.firebase:firebase-installations:17.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/4689a6d826ebc1790388266b78d09d42/transformed/jetified-firebase-installations-17.1.0/AndroidManifest.xml:19:17-82
+189            <meta-data
+189-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+190                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+190-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+191                android:value="com.google.firebase.components.ComponentRegistrar" />
+191-->[com.google.firebase:firebase-datatransport:18.1.7] /Users/atulmaurya/.gradle/caches/transforms-3/8fac4797648095566a35d2309bea0124/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+192        </service>
+193
+194        <provider
+194-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:43:9-47:38
+195            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
+195-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:44:13-102
+196            android:authorities="com.app.pmssansthan.flutterfirebasemessaginginitprovider"
+196-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:45:13-88
+197            android:exported="false"
+197-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:46:13-37
+198            android:initOrder="99" />
+198-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-35
+199
+200        <activity
+200-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-20:47
+201            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
+201-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-104
+202            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+202-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-137
+203            android:exported="false"
+203-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+204            android:theme="@style/AppTheme" />
+204-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-44
+205        <activity
+205-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-24:55
+206            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
+206-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-112
+207            android:exported="false"
+207-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-37
+208            android:theme="@style/ThemeTransparent" />
+208-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:24:13-52
+209        <activity
+209-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-28:55
+210            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity"
+210-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-106
+211            android:exported="false"
+211-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-37
+212            android:theme="@style/ThemeTransparent" />
+212-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-52
+213        <activity
+213-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:29:9-33:55
+214            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance"
+214-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-126
+215            android:exported="false"
+215-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-37
+216            android:launchMode="singleInstance"
+216-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-48
+217            android:theme="@style/ThemeTransparent" />
+217-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:33:13-52
+218        <activity
+218-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:34:9-38:55
+219            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance"
+219-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-120
+220            android:exported="false"
+220-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-37
+221            android:launchMode="singleInstance"
+221-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-48
+222            android:theme="@style/ThemeTransparent" />
+222-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-52
+223
+224        <receiver
+224-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:40:9-43:40
+225            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver"
+225-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:41:13-111
+226            android:enabled="true"
+226-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:42:13-35
+227            android:exported="false" />
+227-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:43:13-37
+228
+229        <meta-data
+229-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:45:9-47:36
+230            android:name="io.flutter.embedded_views_preview"
+230-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:46:13-61
+231            android:value="true" />
+231-->[:flutter_inappwebview] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/flutter_inappwebview/intermediates/merged_manifest/release/AndroidManifest.xml:47:13-33
+232
+233        <uses-library
+233-->[androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+234            android:name="androidx.window.extensions"
+234-->[androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+235            android:required="false" />
+235-->[androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+236        <uses-library
+236-->[androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+237            android:name="androidx.window.sidecar"
+237-->[androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+238            android:required="false" />
+238-->[androidx.window:window:1.0.0-beta04] /Users/atulmaurya/.gradle/caches/transforms-3/7c92824bcb566330b86e2e2c11018216/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+239
+240        <receiver
+240-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:31:9-38:20
+241            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+241-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:32:13-78
+242            android:exported="true"
+242-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:33:13-36
+243            android:permission="com.google.android.c2dm.permission.SEND" >
+243-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:34:13-73
+244            <intent-filter>
+244-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-34:29
+245                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+245-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:17-81
+245-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:33:25-78
+246            </intent-filter>
+247        </receiver>
+248        <!--
+249             FirebaseMessagingService performs security checks at runtime,
+250             but set to not exported to explicitly avoid allowing another app to call it.
+251        -->
+252        <service
+252-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:44:9-51:19
+253            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+253-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:45:13-82
+254            android:directBootAware="true"
+254-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:46:13-43
+255            android:exported="false" >
+255-->[com.google.firebase:firebase-messaging:23.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/f8341301e6cdad7701489ab713013a01/transformed/jetified-firebase-messaging-23.1.0/AndroidManifest.xml:47:13-37
+256            <intent-filter android:priority="-500" >
+256-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:29
+257                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+257-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-78
+257-->[:firebase_messaging] /Users/atulmaurya/Documents/my_projects/school_master/schoo_app/build/firebase_messaging/intermediates/merged_manifest/release/AndroidManifest.xml:24:25-75
+258            </intent-filter>
+259        </service>
+260
+261        <provider
+261-->[com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:25:9-30:39
+262            android:name="com.google.firebase.provider.FirebaseInitProvider"
+262-->[com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:26:13-77
+263            android:authorities="com.app.pmssansthan.firebaseinitprovider"
+263-->[com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:27:13-72
+264            android:directBootAware="true"
+264-->[com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:28:13-43
+265            android:exported="false"
+265-->[com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:29:13-37
+266            android:initOrder="100" />
+266-->[com.google.firebase:firebase-common:20.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/d05abdb1fe27d5be7cad3e2f0781e460/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:30:13-36
+267
+268        <activity
+268-->[com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+269            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+269-->[com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+270            android:exported="false"
+270-->[com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+271            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+271-->[com.google.android.gms:play-services-base:18.0.1] /Users/atulmaurya/.gradle/caches/transforms-3/9162b98b0192e6e65c0762096c0155d2/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+272
+273        <meta-data
+273-->[com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+274            android:name="com.google.android.gms.version"
+274-->[com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+275            android:value="@integer/google_play_services_version" />
+275-->[com.google.android.gms:play-services-basement:18.1.0] /Users/atulmaurya/.gradle/caches/transforms-3/294e1c9199e5bbf6df7091cc9167d5ba/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+276
+277        <provider
+277-->[androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+278            android:name="androidx.startup.InitializationProvider"
+278-->[androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+279            android:authorities="com.app.pmssansthan.androidx-startup"
+279-->[androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+280            android:exported="false" >
+280-->[androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+281            <meta-data
+281-->[androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+282                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+282-->[androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+283                android:value="androidx.startup" />
+283-->[androidx.emoji2:emoji2:1.2.0] /Users/atulmaurya/.gradle/caches/transforms-3/80a517d65dac7481e51110f552830f1d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+284            <meta-data
+284-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+285                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+285-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+286                android:value="androidx.startup" />
+286-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/atulmaurya/.gradle/caches/transforms-3/22a1393f37e8c012df6a57e76c21287e/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+287        </provider>
+288
+289        <service
+289-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+290            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+290-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+291            android:exported="false" >
+291-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+292            <meta-data
+292-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+293                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+293-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+294                android:value="cct" />
+294-->[com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/fcc3cb9f68d7ee588af6c10d79895c91/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+295        </service>
+296        <service
+296-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+297            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+297-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+298            android:exported="false"
+298-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+299            android:permission="android.permission.BIND_JOB_SERVICE" >
+299-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+300        </service>
+301
+302        <receiver
+302-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+303            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+303-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+304            android:exported="false" />
+304-->[com.google.android.datatransport:transport-runtime:3.1.8] /Users/atulmaurya/.gradle/caches/transforms-3/dae38d8c0ac6688b95ec7a1abc0eaa52/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+305    </application>
+306
+307</manifest>
